@@ -1,0 +1,7 @@
+{
+  "name": "bike_parkings",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
